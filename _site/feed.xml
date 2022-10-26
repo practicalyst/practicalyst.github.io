@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2022-10-25T21:49:58-03:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">I need to set this up before midnight</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">This post is not that special</title><link href="http://localhost:4000/2022/10/25/this-post-is-not-that-special.html" rel="alternate" type="text/html" title="This post is not that special" /><published>2022-10-25T20:52:00-03:00</published><updated>2022-10-25T20:52:00-03:00</updated><id>http://localhost:4000/2022/10/25/this-post-is-not-that-special</id><content type="html" xml:base="http://localhost:4000/2022/10/25/this-post-is-not-that-special.html">&lt;p&gt;I’ve warned you.&lt;/p&gt;
+
+&lt;p&gt;I’m just setting up this new blog on github where I will try to cover topics I like and share some thoughts.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Entrepreneurship (I dream about the day I will spell this word right without googling it)&lt;/li&gt;
+  &lt;li&gt;Programming&lt;/li&gt;
+  &lt;li&gt;Blockchain (just maybe I don’t know if I like it yet)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thanks for your attention.&lt;/p&gt;</content><author><name></name></author><summary type="html">I’ve warned you. I’m just setting up this new blog on github where I will try to cover topics I like and share some thoughts. Entrepreneurship (I dream about the day I will spell this word right without googling it) Programming Blockchain (just maybe I don’t know if I like it yet) Thanks for your attention.</summary></entry></feed>
